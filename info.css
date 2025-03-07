@@ -1,0 +1,31 @@
+h3 {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+@media(width<853px) {
+    h1{
+        font-size: x-large;
+    }
+    h3 {
+        font-size: large;
+    }
+
+    p {
+        font-size: xx-small;
+    }
+
+    ul {
+        font-size: xx-small;
+    }
+
+    svg {
+        width: 12px;
+        height: 12px;
+    }
+}
