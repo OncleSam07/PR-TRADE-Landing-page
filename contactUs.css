@@ -16,6 +16,9 @@ h6{
 
 
 @media(width < 853px){
+    header.header__image{
+        display:none;
+    }
     .card{
         width: 20rem;
         margin-top: 0px;
