@@ -16,7 +16,7 @@ h6{
 
 
 @media(width < 853px){
-    header.header__image{
+    header.header__image img{
         display:none;
     }
     .card{
